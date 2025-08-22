@@ -1,2 +1,2 @@
-# Projeto-letra-de-m-sica
+# Projeto-letra-de-musica
 Primeiro projeto
