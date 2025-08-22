@@ -8,7 +8,7 @@ def printLyrics():
         ("En-dessous de ta porte", 0.09),
         ("En-dessous de les murs qui chantent", 0.14),
         
-        ("", 0.5),  # linha em branco para pausar só
+        ("", 0.5),  # linha em branco para pular estrofes
         
         ("Tout près de la place où tes pieds passent", 0.1),
         ("Cachés dans les trous de ton divan", 0.1),
